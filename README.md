@@ -1,5 +1,5 @@
 # Azure-Defender-for-Cloud-Microsoft-Sentinel-Security-Monitoring-Lab
-# Azure Defender for Cloud & Microsoft Sentinel – Security Monitoring Lab
+
 
 ## 1. Overview
 
